@@ -4,6 +4,8 @@
 - Paralelismo de Modelo
 - Paralelismo de Tarefa
 
-*Aluno:* Gabriel Menezes Cabral
-*Matrícula:* 119110372
-*E-mail:* gabriel.cabral@ccc.ufcg.edu.br
+**Aluno:** Gabriel Menezes Cabral
+
+**Matrícula:** 119110372
+
+**E-mail:** gabriel.cabral@ccc.ufcg.edu.br
