@@ -1,1 +1,1 @@
-# Paralelismo-no-TensorFlow
+# Comparando o Desempenho de Técnicas de Paralelismo no TensorFlow
